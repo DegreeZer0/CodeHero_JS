@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Discussions
+    url: https://github.com/DegreeZer0/CodeHero_JS/discussions
+    about: Please ask and answer questions here.
