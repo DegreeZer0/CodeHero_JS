@@ -41,7 +41,7 @@ Sendo direto: Sim... mas perai, não desanima ainda, o que será pago no CodeHer
 * console.log(""); <-- Executa log no console
 
 ## Como usar:
-* **move** => Pode ser usado cru para andar nos ângulos x,y sem poder andar em vertical,
+* **move** => Pode ser usado cru para andar nos ângulos x,y sem poder andar em diagonal,
 * **for** => Pode ser definido para execução de loop para encurtar linhas de código,
 * **let** => É usado para declarar uma variável (Pode ser usado bem em loop),
 * **const** => Usado pra declarar uma constante fixa (Dica: const w = moveUp();),
