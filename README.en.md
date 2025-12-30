@@ -41,7 +41,7 @@ Being direct: Yes... but perai, do not get discouraged yet, what will be paid in
 * console.log(""); <-- Logs from the console
 
 ## How to use:
-* **move** => Can be used raw to walk at angles x,y without being able to walk vertically,
+* **move** => Can be used raw to walk at angles x,y without being able to walk diagonally,
 * **for** => Can be set to loop execution to shorten lines of code,
 * **let** => Is used to declare a variable (Can be used well in loop),
 * **const** => Used to declare a fixed constant (Hint: const w = moveUp(),)
